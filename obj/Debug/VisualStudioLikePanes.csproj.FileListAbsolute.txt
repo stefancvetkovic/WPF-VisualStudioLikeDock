@@ -1,0 +1,13 @@
+C:\Users\stefancvetkovic\Downloads\9780672331190_SourceCode\05\VisualStudioLikePanes\bin\Debug\VisualStudioLikePanes.exe.config
+C:\Users\stefancvetkovic\Downloads\9780672331190_SourceCode\05\VisualStudioLikePanes\bin\Debug\VisualStudioLikePanes.exe
+C:\Users\stefancvetkovic\Downloads\9780672331190_SourceCode\05\VisualStudioLikePanes\bin\Debug\VisualStudioLikePanes.pdb
+C:\Users\stefancvetkovic\Downloads\9780672331190_SourceCode\05\VisualStudioLikePanes\obj\Debug\VisualStudioLikePanes.csprojResolveAssemblyReference.cache
+C:\Users\stefancvetkovic\Downloads\9780672331190_SourceCode\05\VisualStudioLikePanes\obj\Debug\VisualStudioLikePanes.baml
+C:\Users\stefancvetkovic\Downloads\9780672331190_SourceCode\05\VisualStudioLikePanes\obj\Debug\VisualStudioLikePanes.g.cs
+C:\Users\stefancvetkovic\Downloads\9780672331190_SourceCode\05\VisualStudioLikePanes\obj\Debug\MyApp.g.cs
+C:\Users\stefancvetkovic\Downloads\9780672331190_SourceCode\05\VisualStudioLikePanes\obj\Debug\VisualStudioLikePanes_MarkupCompile.cache
+C:\Users\stefancvetkovic\Downloads\9780672331190_SourceCode\05\VisualStudioLikePanes\obj\Debug\VisualStudioLikePanes.g.resources
+C:\Users\stefancvetkovic\Downloads\9780672331190_SourceCode\05\VisualStudioLikePanes\obj\Debug\VisualStudioLikePanes.Properties.Resources.resources
+C:\Users\stefancvetkovic\Downloads\9780672331190_SourceCode\05\VisualStudioLikePanes\obj\Debug\VisualStudioLikePanes.csproj.GenerateResource.Cache
+C:\Users\stefancvetkovic\Downloads\9780672331190_SourceCode\05\VisualStudioLikePanes\obj\Debug\VisualStudioLikePanes.exe
+C:\Users\stefancvetkovic\Downloads\9780672331190_SourceCode\05\VisualStudioLikePanes\obj\Debug\VisualStudioLikePanes.pdb
